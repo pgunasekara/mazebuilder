@@ -381,4 +381,4 @@ def main(n):
 
 	myMaze.draw()
 
-main(35)
+main(20)
